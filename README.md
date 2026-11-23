@@ -1,6 +1,6 @@
 
 
-<img width="1121" height="872" alt="Logo_projecteCBP-01-01" src="https://github.com/user-attachments/assets/398f48c1-d2e6-483e-b8a4-298134c49105" />
+<img width="921" height="672" alt="Logo_projecteCBP-01-01" src="https://github.com/user-attachments/assets/398f48c1-d2e6-483e-b8a4-298134c49105" />
 
 # APLEC (Avaluació de PLatihelmints i artròpodes microEndèmics dels països Catalans)
 Information regarding the sequencing project of microendemisms from Catalonia. Funded by IEC and CBP.
